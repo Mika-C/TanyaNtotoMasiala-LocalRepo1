@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-This is our conflict file. 
-
-This line is different. - Alicja 
-=======
-This is our conflict line Alicja and Tanya
->>>>>>> 726175364a98a8a331205a6df7402ba34424d1d4
+This is the resolved conflict file for Alicja and Tanya 
